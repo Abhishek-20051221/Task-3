@@ -44,3 +44,17 @@ Deletes a book by ID.
 
 ## Outcome
 This project demonstrates understanding of REST API basics, Express routing, HTTP methods, and JSON handling.
+
+## Screenshots
+
+### GET Request
+![GET](get.png)
+
+### POST Request
+![POST](post.png)
+
+### PUT Request
+![PUT](put.png)
+
+### DELETE Request
+![DELETE](delete.png)
